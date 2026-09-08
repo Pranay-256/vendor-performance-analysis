@@ -116,9 +116,11 @@ vendor-performance-analysis/
 
 ## 📊 Dashboard Preview
 
+**Page 1**
 ![Dashboard — Page 1](images/dashboard_image1.png)
 
 
+**Page2**
 ![Dashboard — Page 2](images/dashboard_image2.png)
 
 The two-page Power BI dashboard provides an interactive view of:
