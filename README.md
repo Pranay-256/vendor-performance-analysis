@@ -1,6 +1,6 @@
 # 📊 Vendor Performance Analysis
 
-> **End-to-end retail analytics project focused on vendor performance, profitability, purchasing, and inventory efficiency using SQL, Python, and Power BI.**
+**End-to-end retail analytics project focused on vendor performance, profitability, purchasing, and inventory efficiency using SQL, Python, and Power BI.**
 
 ---
 
