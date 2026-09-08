@@ -11,7 +11,7 @@ This project analyzes **116 vendors and ~6,000 brands** to identify sales and pr
 The analysis combines:
 
 - **SQL** → Data Preparation
-- **Python** → EDA & Statistical Analysis
+- **Python** → EDA, Business Analysis and Key Findings
 - **Power BI** → Interactive Dashboard & Reporting
 
 ---
