@@ -10,7 +10,7 @@ This project analyses **116 vendors and ~6,000 brands** to identify sales and pr
 
 The analysis combines:
 
-- **SQL** → Data Preparation. Created complex SQL queries using JOINS, CTEs, Aggregations, etc. 
+- **SQL** → Data Preparation. Created complex SQL queries using JOINS, CTEs, Aggregations, etc for data pre-processing. 
 - **Python** → EDA, Business Analysis and Key Findings. Used pandas, matplotlib, seaborn, SciPy for analysis, visualization and statistical testing.
 - **Power BI** → Interactive Dashboard & Reporting. Used complex DAX to create measures, calculated columns & summary tables and performed data modelling.
 
