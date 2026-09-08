@@ -117,6 +117,8 @@ vendor-performance-analysis/
 ## 📊 Dashboard Preview
 
 ![Dashboard — Page 1](images/dashboard_image1.png)
+
+
 ![Dashboard — Page 2](images/dashboard_image2.png)
 
 The two-page Power BI dashboard provides an interactive view of:
@@ -132,13 +134,17 @@ The two-page Power BI dashboard provides an interactive view of:
 
 ## 💡 Key Business Recommendations
 
-- Diversify the vendor base to reduce dependency on major suppliers
-- Negotiate better purchase prices for high-selling, low-margin brands
-- Promote low-selling, high-margin brands to increase sales volume
-- Reduce purchases of slow-moving products to limit tied-up capital
-- Use bulk purchasing strategically where demand is predictable
-- Clear or return excess inventory where possible
-- Improve inventory turnover through better purchasing and promotional strategies
+- Maintain strong relationships with top vendors, as they supply the majority of purchases and
+inventory
+- Negotiate lower purchase prices for high-selling, low-profit brands to improve their margins
+- Keep sufficient stock of top-selling brands so that we don’t loose sales due to shortages
+- Reduce purchases of slow-moving products to limit capital tied up in unsold inventory
+- Use bulk purchasing where possible to secure lower unit prices from vendors
+- Reduce unsold inventory through discounts, promotions, or vendor returns
+- Promote low-selling, high-profit brands to grow sales without diluting profitability
+- Increase purchases from other reliable vendors to reduce dependence on the top 10
+- Improve inventory turnover by focusing on products that sell slowly and finding ways to
+increase their sales
 
 ---
 
@@ -184,4 +190,4 @@ For the complete methodology, analysis, visualizations, findings, and recommenda
 
 **Pranay Jha**
 
-*Data Analytics | SQL | Python | Power BI*
+🔗 [LinkedIn](https://www.linkedin.com/in/pranay-jha-6582a937b/)
