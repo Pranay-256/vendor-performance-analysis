@@ -188,6 +188,4 @@ For the complete methodology, analysis, visualizations, findings, and recommenda
 
 ## 👤 Author
 
-**Pranay Jha**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/pranay-jha-6582a937b/)
+**Pranay Jha**  🔗 [LinkedIn](https://www.linkedin.com/in/pranay-jha-6582a937b/)
