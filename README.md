@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes **116 vendors and ~6,000 brands** to identify sales and profitability drivers, vendor dependency, bulk purchasing opportunities, and inventory inefficiencies.
+This project analyses **116 vendors and ~6,000 brands** to identify sales and profitability drivers, vendor dependency, bulk purchasing opportunities, and inventory inefficiencies. A complete **data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization**.
 
 The analysis combines:
 
