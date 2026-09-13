@@ -68,7 +68,7 @@ The final processed dataset used for the analysis is available here:
 vendor-performance-analysis/
 │
 ├── README.md
-├── vendor_performance_analysis_report.pdf
+├── vendors_performance_analysis_report.pdf
 │
 ├── dashboard/
 │   └── vendor_performance_analysis.pbix
