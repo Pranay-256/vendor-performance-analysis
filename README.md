@@ -188,7 +188,7 @@ increase their sales
 
 For the complete methodology, analysis, visualizations, findings, and recommendations:
 
-📑 [View Detailed Project Report](https://github.com/Pranay-256/vendor-performance-analysis/blob/main/vendor_performance_analysis_report.pdf)
+📑 [View Detailed Project Report](https://github.com/Pranay-256/vendors-performance-analysis/blob/main/vendors_performance_analysis_report.pdf)
 
 ---
 
